@@ -11,7 +11,7 @@ O AgroMart tem como objetivo principal ajudar na venda de produtos agroecológic
 
 | Analisar           | AGROMART                               |
 |--------------------|----------------------------------------|
-| Para o propósito de| Entender, controlar e melhorar         |
+| Para o propósito de| Entender         |
 | Com respeito a     | Usabilidade                            |
 | Do ponto de vista do| Usuário                               |
 | No contexto da     | Disciplina de qualidade de software    |

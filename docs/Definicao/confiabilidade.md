@@ -11,7 +11,7 @@ O AgroMart tem como objetivo principal ajudar na venda de produtos agroecológic
 
 | Analisar           | AGROMART                               |
 |--------------------|----------------------------------------|
-| Para o propósito de| Entender, controlar e melhorar         |
+| Para o propósito de| Entender         |
 | Com respeito a     | Confiabilidade                         |
 | Do ponto de vista do| Usuário                               |
 | No contexto da     | Disciplina de qualidade de software    |
@@ -40,7 +40,7 @@ O AgroMart tem como objetivo principal ajudar na venda de produtos agroecológic
 
 <p align="center"><strong>Figura 1: fluxograma de confiabilidade </strong><br/></p>
 
-![fluxograma](../assets/Fluxograma_confiabilidade.jpeg)
+![fluxograma](../assets/Fluxograma_confiabilidade.png)
 
 <p align="center">Fonte: </p>
 
